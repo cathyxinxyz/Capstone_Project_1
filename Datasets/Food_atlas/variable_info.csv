@@ -1,9 +1,9 @@
 Category Name,Category Code,Subcategory Name,Sub_subcategory Name,Year,Variable Code,Geography,Units
-Access and Proximity to Grocery Store,ACCESS,Overall,,2010,LACCESS_POP10,CNTY10,Count
-Access and Proximity to Grocery Store,ACCESS,Overall,,2015,LACCESS_POP15,CNTY10,Count
-Access and Proximity to Grocery Store,ACCESS,Overall,,2010 -15,PCH_LACCESS_POP_10_15,CNTY10,% change
-Access and Proximity to Grocery Store,ACCESS,Overall,,2010,PCT_LACCESS_POP10,CNTY10,Percent
-Access and Proximity to Grocery Store,ACCESS,Overall,,2015,PCT_LACCESS_POP15,CNTY10,Percent
+Access and Proximity to Grocery Store,ACCESS,Overall,Overall,2010,LACCESS_POP10,CNTY10,Count
+Access and Proximity to Grocery Store,ACCESS,Overall,Overall,2015,LACCESS_POP15,CNTY10,Count
+Access and Proximity to Grocery Store,ACCESS,Overall,Overall,2010 -15,PCH_LACCESS_POP_10_15,CNTY10,% change
+Access and Proximity to Grocery Store,ACCESS,Overall,Overall,2010,PCT_LACCESS_POP10,CNTY10,Percent
+Access and Proximity to Grocery Store,ACCESS,Overall,Overall,2015,PCT_LACCESS_POP15,CNTY10,Percent
 Access and Proximity to Grocery Store,ACCESS,Household Resources,Low income,2010,LACCESS_LOWI10,CNTY10,Count
 Access and Proximity to Grocery Store,ACCESS,Household Resources,Low income,2015,LACCESS_LOWI15,CNTY10,Count
 Access and Proximity to Grocery Store,ACCESS,Household Resources,Low income,2010 - 15,PCH_LACCESS_LOWI_10_15,CNTY10,% change
@@ -143,8 +143,8 @@ Food Insecurity,INSECURITY,State Food Insecurity,Household food insecurity,2010-
 Food Insecurity,INSECURITY,State Food Insecurity,Household very low food security,2010-12*,VLFOODSEC_10_12,CNTY10,Percent
 Food Insecurity,INSECURITY,State Food Insecurity,Household very low food security,2013-15*,VLFOODSEC_13_15,CNTY10,Percent
 Food Insecurity,INSECURITY,State Food Insecurity,Household very low food security,2010-12 to 2013-15*,CH_VLFOODSEC_12_15,CNTY10,Percentage points
-Food Insecurity,INSECURITY,State Food Insecurity,Household child food insecurity ,2001-07*,FOODINSEC_CHILD_01_07,CNTY10,Percent
-Food Insecurity,INSECURITY,State Food Insecurity,Household child food insecurity ,2003-11*,FOODINSEC_CHILD_03_11,CNTY10,Percent
+Food Insecurity,INSECURITY,State Food Insecurity,Household child food insecurity,2001-07*,FOODINSEC_CHILD_01_07,CNTY10,Percent
+Food Insecurity,INSECURITY,State Food Insecurity,Household child food insecurity,2003-11*,FOODINSEC_CHILD_03_11,CNTY10,Percent
 Food Prices and Taxes,PRICES_TAXES,Prices, low-fat milk/national average,2010**,MILK_PRICE10,CNTY10,Ratio
 Food Prices and Taxes,PRICES_TAXES,Prices,Price of sodas/national average,2010**,SODA_PRICE10,CNTY10,Ratio
 Food Prices and Taxes,PRICES_TAXES,Prices,low-fat milk/price of sodas,2010**,MILK_SODA_PRICE10,CNTY10,Ratio
