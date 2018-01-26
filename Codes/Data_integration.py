@@ -21,3 +21,11 @@ for i,filename in enumerate(filenames):
 
 #merge datasets
 df_merge=pd.concat(dfs, join='outer', axis=1)
+
+print (df_merge.head(5))
+
+number_null_values_percol=df_merge.isnull().sum(axis=0)
+#columns with over 100 missing values
+cols_with_over_10_percent_null_values=number_null_values_percol[number_null_values_percol>314]
+print (cols_with_over_10_percent_null_values.index)
+
