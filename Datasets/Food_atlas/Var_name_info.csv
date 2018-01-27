@@ -1,0 +1,70 @@
+,var_name,Category Name,Category Code,Subcategory Name,Sub_subcategory Name,Units
+0,var1,Access and Proximity to Grocery Store,ACCESS,Overall,Overall,Percent
+1,var2,Access and Proximity to Grocery Store,ACCESS,Household Resources,Low income,Percent
+2,var3,Access and Proximity to Grocery Store,ACCESS,Household Resources,no car,Percent
+3,var4,Access and Proximity to Grocery Store,ACCESS,Household Resources,SNAP,Percent
+4,var5,Access and Proximity to Grocery Store,ACCESS,Age_group,Children,Percent
+5,var6,Access and Proximity to Grocery Store,ACCESS,Age_group,Seniors,Percent
+6,var7,Access and Proximity to Grocery Store,ACCESS,Race,White,Percent
+7,var8,Access and Proximity to Grocery Store,ACCESS,Race,Black,Percent
+8,var9,Access and Proximity to Grocery Store,ACCESS,Race,Hispanic ethnicity,Percent
+9,var10,Access and Proximity to Grocery Store,ACCESS,Race,Asian,Percent
+10,var11,Access and Proximity to Grocery Store,ACCESS,Race,American Indian or Alaska Native,Percent
+11,var12,Access and Proximity to Grocery Store,ACCESS,Race,Hawaiian or Pacific Islander,Percent
+12,var13,Access and Proximity to Grocery Store,ACCESS,Race,Multiracial,Percent
+13,var14,Store Availability,STORES,Grocery,Grocery,"# per 1,000 pop"
+14,var15,Store Availability,STORES,Supercenters,Supercenters,"# per 1,000 pop"
+15,var16,Store Availability,STORES,Convenience,Convenience,"# per 1,000 pop"
+16,var17,Store Availability,STORES,Specialized,Specialized,"# per 1,000 pop"
+17,var18,Store Availability,STORES,SNAP-authorized,SNAP-authorized,"# per 1,000 pop"
+18,var19,Store Availability,STORES,WIC-authorized,WIC-authorized,"# per 1,000 pop"
+19,var20,Restaurant Availability and Expenditures,RESTAURANTS,Fast-food,Fast-food,"# per 1,000 pop"
+20,var21,Restaurant Availability and Expenditures,RESTAURANTS,Full-service,Full-service,"# per 1,000 pop"
+21,var22,Restaurant Availability and Expenditures,RESTAURANTS,Expenditures per capita,fast food,Dollars
+22,var23,Restaurant Availability and Expenditures,RESTAURANTS,Expenditures per capita,restaurants,Dollars
+23,var24,Food Assistance,ASSISTANCE,SNAP,SNAP participants,Percent
+24,var25,Food Assistance,ASSISTANCE,SNAP,SNAP participants ,Percent
+25,var26,Food Assistance,ASSISTANCE,SNAP,SNAP participants/eligible pop,Percent
+26,var27,Food Assistance,ASSISTANCE,National School Lunch Program,National School Lunch Program participants ,Percent
+27,var28,Food Assistance,ASSISTANCE,National School Lunch Program,Students eligible for free lunch,Percent
+28,var29,Food Assistance,ASSISTANCE,National School Lunch Program,Students eligible for reduced-price lunch,Percent
+29,var30,Food Assistance,ASSISTANCE,School Breakfast Program,School Breakfast Program participants,Percent
+30,var31,Food Assistance,ASSISTANCE,Summer Food Service Program,Summer Food Program participants,Percent
+31,var32,Food Assistance,ASSISTANCE,WIC,WIC participants,Percent
+32,var33,Food Assistance,ASSISTANCE,Child & Adult Care,nan,Percent
+33,var34,Food Insecurity,INSECURITY,State Food Insecurity,Household food insecurity,Percent
+34,var35,Food Insecurity,INSECURITY,State Food Insecurity,Household very low food security,Percent
+35,var36,Food Insecurity,INSECURITY,State Food Insecurity,Household child food insecurity,Percent
+36,var37,Food Prices and Taxes,PRICES_TAXES,Sales Tax,Soda/retail stores,Percent
+37,var38,Food Prices and Taxes,PRICES_TAXES,Sales Tax,Soda/vending,Percent
+38,var39,Food Prices and Taxes,PRICES_TAXES,Sales Tax,Chip & pretzel sales tax/ retail stores,Percent
+39,var40,Food Prices and Taxes,PRICES_TAXES,Sales Tax,General food sales tax/ retail stores,Percent
+40,var41,Local Foods,LOCAL,Direct Sales,Farms,Percent
+41,var42,Local Foods,LOCAL,Direct Sales,Direct farm sales,Percent
+42,var43,Local Foods,LOCAL,Direct Sales,Direct farm sales per capita,Dollars
+43,var44,Local Foods,LOCAL,Farmers' Markets,overall,"# per 1,000 pop"
+44,var45,Local Foods,LOCAL,Farmers' Markets,SNAP,Percent
+45,var46,Local Foods,LOCAL,Farmers' Markets,WIC,Percent
+46,var47,Local Foods,LOCAL,Farmers' Markets,WIC Cash,Percent
+47,var48,Local Foods,LOCAL,Farmers' Markets,SFMNP,Percent
+48,var49,Local Foods,LOCAL,Farmers' Markets,credit cards,Percent
+49,var50,Local Foods,LOCAL,Farmers' Markets,fruit & vegetables,Percent
+50,var51,Local Foods,LOCAL,Farmers' Markets,animal products,Percent
+51,var52,Local Foods,LOCAL,Farmers' Markets,baked/prepared food,Percent
+52,var53,Local Foods,LOCAL,Farmers' Markets,other food,Percent
+53,var54,Local Foods,LOCAL,Other Local Food Outlets,Agritourism receipts,Dollars
+54,var55,Health and Physical Activity,HEALTH,Health,Adult diabetes rate,Percent
+55,var56,Health and Physical Activity,HEALTH,Health,Adult obesity rate,Percent
+56,var57,Health and Physical Activity,HEALTH,Physical Activity,High schoolers physically active,Percent
+57,var58,Health and Physical Activity,HEALTH,Physical Activity,Recreation & fitness facilities,"# per 1,000 pop"
+58,var59,Socioeconomic Characteristics,SOCIOECONOMIC,Race,White,Percent
+59,var60,Socioeconomic Characteristics,SOCIOECONOMIC,Race,Black,Percent
+60,var61,Socioeconomic Characteristics,SOCIOECONOMIC,Race,Hispanic,Percent
+61,var62,Socioeconomic Characteristics,SOCIOECONOMIC,Race,Asian,Percent
+62,var63,Socioeconomic Characteristics,SOCIOECONOMIC,Race,American Indian or Alaska Native,Percent
+63,var64,Socioeconomic Characteristics,SOCIOECONOMIC,Race,Hawaiian or Pacific Islander,Percent
+64,var65,Socioeconomic Characteristics,SOCIOECONOMIC,Age,>=65,Percent
+65,var66,Socioeconomic Characteristics,SOCIOECONOMIC,Age,<18,Percent
+66,var67,Socioeconomic Characteristics,SOCIOECONOMIC,Income Level,Median household income,Dollars
+67,var68,Socioeconomic Characteristics,SOCIOECONOMIC,Income Level,Poverty rate,Percent
+68,var69,Socioeconomic Characteristics,SOCIOECONOMIC,Income Level,Child poverty rate,Percent
