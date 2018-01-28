@@ -1,10 +1,10 @@
 RUCC_2013,Type
-1,Metro - Counties in metro areas of 1 million population or more
-2,Metro - Counties in metro areas of 250,000 to 1 million population
-3,Metro - Counties in metro areas of fewer than 250,000 population
-4,Nonmetro - Urban population of 20,000 or more, adjacent to a metro area
-5,Nonmetro - Urban population of 20,000 or more, not adjacent to a metro area
-6,Nonmetro - Urban population of 2,500 to 19,999, adjacent to a metro area
-7,Nonmetro - Urban population of 2,500 to 19,999, not adjacent to a metro area
-8,Nonmetro - Completely rural or less than 2,500 urban population, adjacent to a metro area
-9,Nonmetro - Completely rural or less than 2,500 urban population, not adjacent to a metro area
+1,Metro-Counties in metro areas of 1 million population or more
+2,Metro-Counties in metro areas of 0.25 to 1 million population
+3,Metro-Counties in metro areas of fewer than 250000 population
+4,Nonmetro - Urban population of 20000 or more adjacent to a metro area
+5,Nonmetro - Urban population of 20000 or more not adjacent to a metro area
+6,Nonmetro - Urban population of 2500 to 19999 adjacent to a metro area
+7,Nonmetro - Urban population of 2500 to 19999 not adjacent to a metro area
+8,Nonmetro - Completely rural or less than 2500 urban population adjacent to a metro area
+9,Nonmetro - Completely rural or less than 2500 urban population not adjacent to a metro area
