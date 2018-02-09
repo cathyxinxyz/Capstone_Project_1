@@ -1,70 +1,70 @@
-variable,category,sub_category
-var1,Access and Proximity to Grocery Store,Overall
-var2,Access and Proximity to Grocery Store,Low income
-var3,Access and Proximity to Grocery Store,no car
-var4,Access and Proximity to Grocery Store,SNAP
-var5,Access and Proximity to Grocery Store,Children
-var6,Access and Proximity to Grocery Store,Seniors
-var7,Access and Proximity to Grocery Store,White
-var8,Access and Proximity to Grocery Store,Black
-var9,Access and Proximity to Grocery Store,Hispanic ethnicity
-var10,Access and Proximity to Grocery Store,Asian
-var11,Access and Proximity to Grocery Store,American Indian or Alaska Native
-var12,Access and Proximity to Grocery Store,Hawaiian or Pacific Islander
-var13,Access and Proximity to Grocery Store,Multiracial
-var14,Store Availability,Grocery
-var15,Store Availability,Supercenters
-var16,Store Availability,Convenience
-var17,Store Availability,Specialized
-var18,Store Availability,SNAP-authorized
-var19,Store Availability,WIC-authorized
-var20,Restaurant Availability and Expenditures,Fast-food
-var21,Restaurant Availability and Expenditures,Full-service
-var22,Restaurant Availability and Expenditures,fast food
-var23,Restaurant Availability and Expenditures,restaurants
-var24,Food Assistance,SNAP participants
-var25,Food Assistance,SNAP participants 
-var26,Food Assistance,SNAP participants/eligible pop
-var27,Food Assistance,National School Lunch Program participants 
-var28,Food Assistance,Students eligible for free lunch
-var29,Food Assistance,Students eligible for reduced-price lunch
-var30,Food Assistance,School Breakfast Program participants
-var31,Food Assistance,Summer Food Program participants
-var32,Food Assistance,WIC participants
-var33,Food Assistance,
-var34,Food Insecurity,Household food insecurity
-var35,Food Insecurity,Household very low food security
-var36,Food Insecurity,Household child food insecurity
-var37,Food Prices and Taxes,Soda/retail stores
-var38,Food Prices and Taxes,Soda/vending
-var39,Food Prices and Taxes,Chip & pretzel sales tax/ retail stores
-var40,Food Prices and Taxes,General food sales tax/ retail stores
-var41,Local Foods,Farms
-var42,Local Foods,Direct farm sales
-var43,Local Foods,Direct farm sales per capita
-var44,Local Foods,overall
-var45,Local Foods,SNAP
-var46,Local Foods,WIC
-var47,Local Foods,WIC Cash
-var48,Local Foods,SFMNP
-var49,Local Foods,credit cards
-var50,Local Foods,fruit & vegetables
-var51,Local Foods,animal products
-var52,Local Foods,baked/prepared food
-var53,Local Foods,other food
-var54,Local Foods,Agritourism receipts
-var55,Health and Physical Activity,Adult diabetes rate
-var56,Health and Physical Activity,Adult obesity rate
-var57,Health and Physical Activity,High schoolers physically active
-var58,Health and Physical Activity,Recreation & fitness facilities
-var59,Socioeconomic Characteristics,White
-var60,Socioeconomic Characteristics,Black
-var61,Socioeconomic Characteristics,Hispanic
-var62,Socioeconomic Characteristics,Asian
-var63,Socioeconomic Characteristics,American Indian or Alaska Native
-var64,Socioeconomic Characteristics,Hawaiian or Pacific Islander
-var65,Socioeconomic Characteristics,>=65
-var66,Socioeconomic Characteristics,<18
-var67,Socioeconomic Characteristics,Median household income
-var68,Socioeconomic Characteristics,Poverty rate
-var69,Socioeconomic Characteristics,Child poverty rate
+variable,category,sub_category,meaning
+var1,Access and Proximity to Grocery Store,Overall,Fraction of population with low access to grocery store
+var2,Access and Proximity to Grocery Store,Low income,Fraction of population with low access to grocery store who are low income
+var3,Access and Proximity to Grocery Store,no car,Fraction of population with low access to grocery store who have no car
+var4,Access and Proximity to Grocery Store,SNAP,Fraction of population with low access to grocery store who are qualifed for SNAP
+var5,Access and Proximity to Grocery Store,Children,Fraction of population with low access to grocery store who are children
+var6,Access and Proximity to Grocery Store,Seniors,Fraction of population with low access to grocery store who are seniors
+var7,Access and Proximity to Grocery Store,White,Fraction of population with low access to grocery store who are white
+var8,Access and Proximity to Grocery Store,Black,Fraction of population with low access to grocery store who are black
+var9,Access and Proximity to Grocery Store,Hispanic ethnicity,Fraction of population with low access to grocery store who are hispanic
+var10,Access and Proximity to Grocery Store,Asian,Fraction of population with low access to grocery store who are asian
+var11,Access and Proximity to Grocery Store,American Indian or Alaska Native,Fraction of population with low access to grocery store who are American Indian or Alaska Native
+var12,Access and Proximity to Grocery Store,Hawaiian or Pacific Islander,Fraction of population with low access to grocery store who are Hawaiian or Pacific Islander
+var13,Access and Proximity to Grocery Store,Multiracial,Fraction of population with low access to grocery store who are Multiracial
+var14,Store Availability,Grocery,available grocery stores
+var15,Store Availability,Supercenters,available supercenters
+var16,Store Availability,Convenience,available convenience stores
+var17,Store Availability,Specialized,available specialized stores
+var18,Store Availability,SNAP-authorized,available SNAP-authorized stores
+var19,Store Availability,WIC-authorized,available WIC-authorized stores
+var20,Restaurant Availability and Expenditures,Fast-food,per capita expenditures at fast food restaurants
+var21,Restaurant Availability and Expenditures,Full-service,per capita expenditures at full service restaurants
+var22,Restaurant Availability and Expenditures,fast food,per capita expenditures at full service restaurants
+var23,Restaurant Availability and Expenditures,restaurants,per capita expenditures at full service restaurants
+var24,Food Assistance,SNAP participants,fraction of population who are SNAP participants
+var25,Food Assistance,SNAP participants,fraction of population who are SNAP participants
+var26,Food Assistance,SNAP participants/eligible pop,fraction of SNAP participants among who are eligible
+var27,Food Assistance,National School Lunch Program participants,National School Lunch Program participants
+var28,Food Assistance,Students eligible for free lunch,Students eligible for free lunch
+var29,Food Assistance,Students eligible for reduced-price lunch,Students eligible for reduced-price lunch
+var30,Food Assistance,School Breakfast Program participants,School Breakfast Program participants
+var31,Food Assistance,Summer Food Program participants,Summer Food Program participants
+var32,Food Assistance,WIC participants,fraction of WIC participants
+var33,Food Assistance,Overall,Fraction of population particiating food assistance program
+var34,Food Insecurity,Household food insecurity,fraction of household with food insecurity (state average)
+var35,Food Insecurity,Household very low food security,fraction of household with high food insecurity (state average)
+var36,Food Insecurity,Household child food insecurity,fraction of children in households with food insecurity (state average)
+var37,Food Prices and Taxes,Soda/retail stores,price and tax of Soda/retail stores
+var38,Food Prices and Taxes,Soda/vending,price and tax of Soda/vending
+var39,Food Prices and Taxes,Chip & pretzel sales tax/ retail stores,price and tax of Chip & pretzel sales tax/ retail stores
+var40,Food Prices and Taxes,General food sales tax/ retail stores,price and tax of General food sales tax/ retail stores
+var41,Local Foods,Farms,available farms
+var42,Local Foods,Direct farm sales,direct farm sales
+var43,Local Foods,Direct farm sales per capita,direct farm sales per capita
+var44,Local Foods,overall,available local foods
+var45,Local Foods,SNAP,available local foods on SNAP program
+var46,Local Foods,WIC,available local foods on WIC program
+var47,Local Foods,WIC Cash,available local foods on WIC program and accept WIC cash
+var48,Local Foods,SFMNP,available local foods on SFMNP program
+var49,Local Foods,credit cards,available local foods accept credit cards
+var50,Local Foods,fruit & vegetables,available local foods provide fruits and veges
+var51,Local Foods,animal products,available local foods provide animal products
+var52,Local Foods,baked/prepared food,available local foods provide baked/prepared food
+var53,Local Foods,other food,available local foods provide other food
+var54,Local Foods,Agritourism receipts,available local foods with Agritourism receipts
+var55,Health and Physical Activity,Adult diabetes rate,Adult diabetes rate
+var56,Health and Physical Activity,Adult obesity rate,Adult obesity rate
+var57,Health and Physical Activity,High schoolers physically active,High schoolers physically active
+var58,Health and Physical Activity,Recreation & fitness facilities,Recreation & fitness facilities
+var59,Socioeconomic Characteristics,White,Fraction of White population
+var60,Socioeconomic Characteristics,Black,Fraction of Black population
+var61,Socioeconomic Characteristics,Hispanic,Fraction of Hispanic population
+var62,Socioeconomic Characteristics,Asian,Fraction of Asian population
+var63,Socioeconomic Characteristics,American Indian or Alaska Native,Fraction of American Indian or Alaska Native population
+var64,Socioeconomic Characteristics,Hawaiian or Pacific Islander,Fraction of Hawaiian or Pacific Islander
+var65,Socioeconomic Characteristics,>=65,Fraction of population >=65 years old
+var66,Socioeconomic Characteristics,<18,Fraction of population <18 years old
+var67,Socioeconomic Characteristics,Median household income,Median household income
+var68,Socioeconomic Characteristics,Poverty rate,Poverty rate
+var69,Socioeconomic Characteristics,Child poverty rate,Child poverty rate
